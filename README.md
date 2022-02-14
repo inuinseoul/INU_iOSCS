@@ -1,5 +1,21 @@
 # INU_iOSCS 🍎
 
-iOS 예비개발자로서 공부하면서 작성한 글들을 정리하기 위한 저장소입니다.
-<br>
-개인적인 정리를 위해 만든 저장소이지만 혹시 학습에 조금이라도 도움이 되셨다면 영광입니다. 🤗
+iOS 예비개발자로서 공부하면서 작성한 글들을 정리하기 위한 저장소입니다. 
+
+## iOS
+
+- [Swift]()
+- [UIKit]()
+- [RxSwift]()
+- [Combine]()
+- [CoreData]()
+- [Architecture & Design Pattern]()
+
+## CS
+
+- [Network]()
+- [Computer Architecture]()
+- [Operation System]()
+- [Data Base]()
+- [Data Structure]()
+- [Algorithm]()
