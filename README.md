@@ -44,12 +44,11 @@
 - [Frame vs Bounds](https://inuplace.tistory.com/955?category=1034353)
 - [Compositional Layout](https://inuplace.tistory.com/1038?category=1034353)
 - [Multiple Gesture Recognizer](https://inuplace.tistory.com/1069?category=1034353)
-- [ViewController Life Cycle](https://inuplace.tistory.com/1080?category=1034353)
+- [ViewController 라이프사이클 이해 및 활용](https://inuplace.tistory.com/1080?category=1034353)
 - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
 - SwiftUI를 활용한 뷰 계층 구조 구현
-- ViewController 라이프사이클 이해 및 활용
 - 필요한 추가 프레임워크 등록 및 빌드 환경에서 통합 빌드 설정 (in Xcode)
 - URLSession을 활용한 세션 기반 인증 구현
 - RESTful API에 대한 이해
