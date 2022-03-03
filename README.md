@@ -1,6 +1,10 @@
 # INU_iOSCS 🍎
 
 예비 iOS 개발자로서 공부하면서 작성한 글들을 정리하기 위한 저장소입니다. 
+<br><br>
+탐색의 용이성을 위해 한 글에 여러 개념이 중복되어 등장하는 경우 이들을 나누어 입력했습니다.
+<br>
+따라서 중복된 링크가 있을 수 있습니다.
 
 # iOS 
 
@@ -31,6 +35,8 @@
 - [Codable vs NSCoding](https://inuplace.tistory.com/1002?category=1034357)
 - [문자열 처리](https://inuplace.tistory.com/1052?category=1034357)
 - [NSCache vs NSDictionary](https://inuplace.tistory.com/1050)
+- [KVC(Key-Value Coding)](https://inuplace.tistory.com/1113)
+- [KVO(Key-Value Observing)](https://inuplace.tistory.com/1113)
 
 ### UIKit
 
@@ -112,21 +118,90 @@
 
 # CS
 
+### OOP
+
+- [SOLID](https://inuplace.tistory.com/938)
+- [SRP (Single Responsibility Principle)](https://inuplace.tistory.com/938)
+- [OCP (Open-Closed Principle)](https://inuplace.tistory.com/941)
+- [LSP (Liskov Substitution Principle)](https://inuplace.tistory.com/943)
+- [ISP (Interface Segregation Principle)](https://inuplace.tistory.com/946)
+- [DIP (Dependency Inversion Principle)](https://inuplace.tistory.com/952)
+
 ### Network
 
-- [HTTPS](https://inuplace.tistory.com/1086?category=966976)
 
-### Computer Architecture
+- [TCP/IP](https://inuplace.tistory.com/800?category=966976)
+- [OSI 7Layer](https://inuplace.tistory.com/800?category=966976)
+- [패킷](https://inuplace.tistory.com/800?category=966976)
+- [IP 주소](https://inuplace.tistory.com/804?category=966976)
+- [Ethernet Protocol](https://inuplace.tistory.com/803?category=966976)
+- [ARP Protocol](https://inuplace.tistory.com/809?category=966976)
+- [IPv4 Protocol](https://inuplace.tistory.com/816?category=966976)
+- [ICMP Protocol](https://inuplace.tistory.com/816?category=966976)
+- [포트](https://inuplace.tistory.com/818?category=966976)
+- [TCP](https://inuplace.tistory.com/821?category=966976)
+- [UDP](https://inuplace.tistory.com/819?category=966976)
+- [HTTP](https://inuplace.tistory.com/823?category=966976)
+- [HTTP 메서드](https://inuplace.tistory.com/847?category=966976)
+- [HTTP API 설계 예시](https://inuplace.tistory.com/860?category=966976)
+- [HTTP 상태코드](https://inuplace.tistory.com/865?category=966976)
+- [HTTP 헤더](https://inuplace.tistory.com/869?category=966976)
+- [HTTP 캐시와 조건부요청](https://inuplace.tistory.com/871?category=966976)
+- [HTTPS](https://inuplace.tistory.com/1086?category=966976)
+- [흐름제어](https://inuplace.tistory.com/1081?category=966976)
+- [혼잡제어](https://inuplace.tistory.com/1081?category=966976)
 
 ### Operation System
 
+- [채널, 버퍼, 인터럽트](https://inuplace.tistory.com/279?category=884574)
+- [시분할 시스템](https://inuplace.tistory.com/280?category=884574)
+- [커널](https://inuplace.tistory.com/281?category=884574)
+- [시스템콜](https://inuplace.tistory.com/281?category=884574)
+- [입출력 시스템](https://inuplace.tistory.com/282?category=884574)
+- [이중모드](https://inuplace.tistory.com/285?category=884574)
+- [프로세스](https://inuplace.tistory.com/290?category=884574)
+- [프로세스 Context](https://inuplace.tistory.com/290?category=884574)
+- [프로세스 라이프사이클](https://inuplace.tistory.com/295?category=884574)
+- [PCB (Process Control Block)](https://inuplace.tistory.com/295?category=884574)
+- [스레드](https://inuplace.tistory.com/315?category=884574)
+- [프로세스 스케줄링](https://inuplace.tistory.com/318?category=884574)
+- [임계구역](https://inuplace.tistory.com/335?category=884574)
+- [상호배제](https://inuplace.tistory.com/335?category=884574)
+- [세마포어](https://inuplace.tistory.com/336?category=884574)
+- [교착상태 (DeadLock)](https://inuplace.tistory.com/338?category=884574)
+- [페이징](https://inuplace.tistory.com/346?category=884574)
+- [페이징 테이블](https://inuplace.tistory.com/352?category=884574)
+- [세그멘테이션](https://inuplace.tistory.com/353?category=884574)
+- [가상메모리](https://inuplace.tistory.com/362?category=884574)
+- [페이지 대치 알고리즘](https://inuplace.tistory.com/363?category=884574)
+- [프레임개수와 페이지크기](https://inuplace.tistory.com/371?category=884574)
+- [쓰레싱](https://inuplace.tistory.com/374?category=884574)
+- [디스크 스케줄링](https://inuplace.tistory.com/390?category=884574)
+- [RAID](https://inuplace.tistory.com/394?category=884574)
+- [IPC](https://inuplace.tistory.com/1039?category=884574)
+
 ### Data Base
+
+- [트랙잭션](https://inuplace.tistory.com/1000?category=911622)
+- [ACID](https://inuplace.tistory.com/1000?category=911622)
+- [Index](https://inuplace.tistory.com/1058?category=911622)
 
 ### Data Structure
 
+- [배열](https://inuplace.tistory.com/169?category=884573)
+- [링크드 리스트](https://inuplace.tistory.com/172?category=884573)
+- [해시 테이블](https://inuplace.tistory.com/176?category=884573)
+- [추상자료형](https://inuplace.tistory.com/180?category=884573)
+- [트리](https://inuplace.tistory.com/185?category=884573)
+- [힙](https://inuplace.tistory.com/190?category=884573)
+- [그래프](https://inuplace.tistory.com/198?category=884573)
+
 ### Algorithm
 
-### ETC
+- [다익스트라](https://inuplace.tistory.com/870?category=884573)
+- [플로이드워셜](https://inuplace.tistory.com/870?category=884573)
+
+<!-- # Experience
 
 - 개인 단위 앱 서비스 개발 경험
 - 팀 단위 앱 서비스 개발 경험
@@ -143,4 +218,4 @@
 - 페어프로그래밍 경험
 - 커뮤니케이션
 - 애자일 개발 방법 경험 (데일리 스크럼, 회고 활동)
-- 하이브리드앱 개발경험
+- 하이브리드앱 개발경험 -->
