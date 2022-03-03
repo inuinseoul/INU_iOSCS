@@ -7,13 +7,7 @@
 ### Swfit
 
 - [기초 문법](https://inuplace.tistory.com/882?category=1034357)
-- [Codable Protocol](https://inuplace.tistory.com/895?category=1034357)
-- [Dynamic Dispatch](https://inuplace.tistory.com/991?category=1034357)
-- [UserDefaults](https://inuplace.tistory.com/1002?category=1034357)
-- [Codable vs NSCoding](https://inuplace.tistory.com/1002?category=1034357)
-- [문자열 처리](https://inuplace.tistory.com/1052?category=1034357)
-- [NSCache vs NSDictionary](https://inuplace.tistory.com/1050)
-- 배열 탐색 및 비교
+- 배열의 탐색 및 비교
 - Struct와 Class의 차이점
 - Array, Set, Dictionary 데이터 구조의 차이
 - protocol 문법
@@ -31,6 +25,12 @@
 - 터미널 환경에서의 Swift 코드, 프로젝트 빌드 (Xcode 사용X)
 - console, debugger에서의 LLDB 명령을 사용한 Swift 프로그램 디버깅
 - 앱 빌드 환경을 위한 target, project, workspace 구조 이해 및 원하는 형태로 정리
+- [Codable Protocol](https://inuplace.tistory.com/895?category=1034357)
+- [Dynamic Dispatch](https://inuplace.tistory.com/991?category=1034357)
+- [UserDefaults](https://inuplace.tistory.com/1002?category=1034357)
+- [Codable vs NSCoding](https://inuplace.tistory.com/1002?category=1034357)
+- [문자열 처리](https://inuplace.tistory.com/1052?category=1034357)
+- [NSCache vs NSDictionary](https://inuplace.tistory.com/1050)
 
 ### UIKit
 
@@ -66,6 +66,11 @@
 - [Observable](https://inuplace.tistory.com/1084?category=1034358)
 - [Operator](https://inuplace.tistory.com/1084?category=1034358)
 - [Subject](https://inuplace.tistory.com/1089?category=1034358)
+- [Scheduler](https://inuplace.tistory.com/1100?category=1034358)
+- [Trait (Single, Completable, Maybe)](https://inuplace.tistory.com/1099?category=1034358)
+- [ControlProperty, ControlEvent](https://inuplace.tistory.com/1101?category=1034358)
+- [Driver, Signal](https://inuplace.tistory.com/1102?category=1034358)
+- [Relay (PublishRelay, BehaviorRelay, ReplayRelay)](https://inuplace.tistory.com/1107?category=1034358)
 
 ### Combine
 
