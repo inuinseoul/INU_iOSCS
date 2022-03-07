@@ -12,14 +12,14 @@
 
 - [기초 문법](https://inuplace.tistory.com/882?category=1034357)
 - 배열의 탐색 및 비교
-- Struct와 Class의 차이점
+- [Struct와 Class의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - Array, Set, Dictionary 데이터 구조의 차이
 - protocol 문법
 - extension 문법 및 protocol 채택
 - class 상속을 통한 sub class 구현
 - GCD 동작원리 및 사용
-- ARC 메모리 관리 방식
-- strong, weak, unowned
+- [ARC 메모리 관리 방식](https://github.com/lunchScreen/Interview_Questions/issues/4)
+- [strong, weak, unowned](https://github.com/lunchScreen/Interview_Questions/issues/6)
 - Generic에 대한 이해 및 Generic method 구현
 - 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
 - JSON 데이터 파싱 및 디코딩, 데이터 인코딩
