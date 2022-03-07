@@ -169,7 +169,9 @@
 - [페이징](https://inuplace.tistory.com/346?category=884574)
 - [페이징 테이블](https://inuplace.tistory.com/352?category=884574)
 - [세그멘테이션](https://inuplace.tistory.com/353?category=884574)
+- 멀티프로세스
 - [가상메모리](https://inuplace.tistory.com/362?category=884574)
+- 
 - [페이지 대치 알고리즘](https://inuplace.tistory.com/363?category=884574)
 - [프레임개수와 페이지크기](https://inuplace.tistory.com/371?category=884574)
 - [쓰레싱](https://inuplace.tistory.com/374?category=884574)
