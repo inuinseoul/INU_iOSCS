@@ -12,7 +12,7 @@
 
 - [기초 문법](https://inuplace.tistory.com/882?category=1034357)
 - 배열의 탐색 및 비교
-- [Struct와 Class의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/3)
+- [Struct와 Class, Enum의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - Array, Set, Dictionary 데이터 구조의 차이
 - protocol 문법
 - extension 문법 및 protocol 채택
@@ -20,7 +20,7 @@
 - GCD 동작원리 및 사용
 - [ARC 메모리 관리 방식](https://github.com/lunchScreen/Interview_Questions/issues/4)
 - [strong, weak, unowned](https://github.com/lunchScreen/Interview_Questions/issues/6)
-- Generic에 대한 이해 및 Generic method 구현
+- [Generic](https://inuplace.tistory.com/1121)
 - 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
 - JSON 데이터 파싱 및 디코딩, 데이터 인코딩
 - 구조의 단계적 분리 분리 (입력, 검증, 처리, 형식, 출력)
@@ -54,7 +54,7 @@
 - RESTful API에 대한 이해
 - WEB API 서버와 PUT, POST로 연동
 - Container ViewController 개념 이해 (포함관계 및 ToolBar, NavigationBar 동작흐름)
-- NotificationCenter 동작 이해 및 활용
+- [NotificationCenter 개념](https://inuplace.tistory.com/1120?category=1034357)
 - TableView 동작 이해 및 활용 (데이터소스 지정)
 - CollectionView 동작 이해 및 활용 (데이터 소스 지정, 커스텀 레이아웃 구현)
 - Persistance 데이터 계층 종류 및 특징, 구현방법
