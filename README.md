@@ -9,24 +9,10 @@
 ### Swfit
 
 - [기초 문법](https://inuplace.tistory.com/882?category=1034357)
-- 배열의 탐색 및 비교
 - [Struct와 Class, Enum의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/3)
-- Array, Set, Dictionary 데이터 구조의 차이
-- protocol 문법
-- extension 문법 및 protocol 채택
-- class 상속을 통한 sub class 구현
-- GCD 동작원리 및 사용
 - [ARC 메모리 관리 방식](https://github.com/lunchScreen/Interview_Questions/issues/4)
 - [strong, weak, unowned](https://github.com/lunchScreen/Interview_Questions/issues/6)
 - [Generic](https://inuplace.tistory.com/1121)
-- 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
-- JSON 데이터 파싱 및 디코딩, 데이터 인코딩
-- 구조의 단계적 분리 분리 (입력, 검증, 처리, 형식, 출력)
-- SPM(Swift Package Manager) 사용 및 패키지 생성
-- 여러 타입을 포함한 데이터 모델링
-- 터미널 환경에서의 Swift 코드, 프로젝트 빌드 (Xcode 사용X)
-- console, debugger에서의 LLDB 명령을 사용한 Swift 프로그램 디버깅
-- 앱 빌드 환경을 위한 target, project, workspace 구조 이해 및 원하는 형태로 정리
 - [Codable Protocol](https://inuplace.tistory.com/895?category=1034357)
 - [Dynamic Dispatch](https://inuplace.tistory.com/991?category=1034357)
 - [UserDefaults](https://inuplace.tistory.com/1002?category=1034357)
@@ -35,6 +21,18 @@
 - [NSCache vs NSDictionary](https://inuplace.tistory.com/1050)
 - [KVC(Key-Value Coding)](https://inuplace.tistory.com/1113)
 - [KVO(Key-Value Observing)](https://inuplace.tistory.com/1113)
+- [async await](https://inuplace.tistory.com/1124)
+- [Task](https://inuplace.tistory.com/1125?category=1034357)
+- [Actor](https://inuplace.tistory.com/1126?category=1034357)
+<!-- - GCD 동작원리 및 사용
+- 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
+- JSON 데이터 파싱 및 디코딩, 데이터 인코딩
+- 구조의 단계적 분리 분리 (입력, 검증, 처리, 형식, 출력)
+- SPM(Swift Package Manager) 사용 및 패키지 생성
+- 여러 타입을 포함한 데이터 모델링
+- 터미널 환경에서의 Swift 코드, 프로젝트 빌드 (Xcode 사용X)
+- console, debugger에서의 LLDB 명령을 사용한 Swift 프로그램 디버깅
+- 앱 빌드 환경을 위한 target, project, workspace 구조 이해 및 원하는 형태로 정리 -->
 
 ### UIKit
 
@@ -43,7 +41,8 @@
 - [Compositional Layout](https://inuplace.tistory.com/1038?category=1034353)
 - [Multiple Gesture Recognizer](https://inuplace.tistory.com/1069?category=1034353)
 - [ViewController 라이프사이클 이해 및 활용](https://inuplace.tistory.com/1080?category=1034353)
-- 스토리보드를 이용한 뷰 계층 구조 구현
+- [NotificationCenter 개념](https://inuplace.tistory.com/1120?category=1034357)
+<!-- - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
 - SwiftUI를 활용한 뷰 계층 구조 구현
@@ -52,7 +51,6 @@
 - RESTful API에 대한 이해
 - WEB API 서버와 PUT, POST로 연동
 - Container ViewController 개념 이해 (포함관계 및 ToolBar, NavigationBar 동작흐름)
-- [NotificationCenter 개념](https://inuplace.tistory.com/1120?category=1034357)
 - TableView 동작 이해 및 활용 (데이터소스 지정)
 - CollectionView 동작 이해 및 활용 (데이터 소스 지정, 커스텀 레이아웃 구현)
 - Persistance 데이터 계층 종류 및 특징, 구현방법
@@ -61,7 +59,7 @@
 - CoreML 모델을 통한 텍스트 및 사진 데이터 인식
 - instruments를 이용해 원하는 성능 데이터를 프로파일링
 - App 라이프사이클 이해 및 백그라운드 동작에 대한 제약, 내부 데이터 아카이브
-- View 렌더링사이클 이해 및 원하는 속성으로 애니메이션 구현
+- View 렌더링사이클 이해 및 원하는 속성으로 애니메이션 구현 -->
 
 ### RxSwift
 
@@ -102,16 +100,16 @@
 - [MVC](https://inuplace.tistory.com/1049?category=1024843)
 - [MVP](https://inuplace.tistory.com/1049?category=1024843)
 - [MVVM](https://inuplace.tistory.com/1049?category=1024843)
-- Clean Swift
-- RIBs
-
+<!-- - Clean Swift
+- RIBs -->
+<!-- 
 ### ETC
 
 - Reactorkit
 - Alamofire
 - Kingfisher
 - Carthage
-- CocoaPods
+- CocoaPods -->
 
 # CS 🖥
 
@@ -169,9 +167,9 @@
 - [페이징](https://inuplace.tistory.com/346?category=884574)
 - [페이징 테이블](https://inuplace.tistory.com/352?category=884574)
 - [세그멘테이션](https://inuplace.tistory.com/353?category=884574)
-- 멀티프로세스
 - [가상메모리](https://inuplace.tistory.com/362?category=884574)
-- 파일시스템 
+<!-- - 멀티프로세스
+- 파일시스템  -->
 - [페이지 대치 알고리즘](https://inuplace.tistory.com/363?category=884574)
 - [프레임개수와 페이지크기](https://inuplace.tistory.com/371?category=884574)
 - [쓰레싱](https://inuplace.tistory.com/374?category=884574)
