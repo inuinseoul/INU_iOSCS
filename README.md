@@ -1,6 +1,6 @@
 예비 iOS 개발자로서 공부한 iOS 및 CS 개념들을 정리하기 위한 저장소입니다.
 <br>
-지금까지 수행한 블로그 포스팅과 스터디 링크를 모았습니다.
+지금까지 작성한 블로그 포스팅과 스터디 링크를 모았습니다.
 <br><br>
 탐색의 용이성을 위해 한 링크에 여러 개념이 중복되어 등장하는 경우 이들을 나누어 입력했습니다.
 <br>
@@ -14,6 +14,7 @@
 - [Struct와 Class, Enum의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - [ARC 메모리 관리 방식](https://github.com/lunchScreen/Interview_Questions/issues/4)
 - [strong, weak, unowned](https://github.com/lunchScreen/Interview_Questions/issues/6)
+- [Foundation](https://github.com/lunchScreen/Interview_Questions/issues/10)
 - [Generic](https://inuplace.tistory.com/1121)
 - [Codable Protocol](https://inuplace.tistory.com/895?category=1034357)
 - [Dynamic Dispatch](https://inuplace.tistory.com/991?category=1034357)
@@ -26,6 +27,11 @@
 - [async await](https://inuplace.tistory.com/1124)
 - [Task](https://inuplace.tistory.com/1125?category=1034357)
 - [Actor](https://inuplace.tistory.com/1126?category=1034357)
+- [defer](https://github.com/lunchScreen/Interview_Questions/issues/24)
+- [Convinience init](https://github.com/lunchScreen/Interview_Questions/issues/32)
+- [Escaping Closure](https://github.com/lunchScreen/Interview_Questions/issues/35)
+- [NotificationCenter](https://inuplace.tistory.com/1120?category=1034357)
+- [sort의 내부구현](https://github.com/lunchScreen/Interview_Questions/issues/83)
 <!-- - GCD 동작원리 및 사용
 - 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
 - JSON 데이터 파싱 및 디코딩, 데이터 인코딩
@@ -36,6 +42,14 @@
 - console, debugger에서의 LLDB 명령을 사용한 Swift 프로그램 디버깅
 - 앱 빌드 환경을 위한 target, project, workspace 구조 이해 및 원하는 형태로 정리 -->
 
+### iOS
+
+- [App Bundle](https://github.com/lunchScreen/Interview_Questions/issues/30)
+- [Scene delegate](https://github.com/lunchScreen/Interview_Questions/issues/41)
+- [App Life Cycle (Not running, Inactive, Active, Background, Suspended)](https://github.com/lunchScreen/Interview_Questions/issues/46)
+- [ApplicationDelegate](https://github.com/lunchScreen/Interview_Questions/issues/81)
+- [#selector의 역할](https://inuplace.tistory.com/1072)
+
 ### UIKit
 
 - [Diffable Datasource](https://inuplace.tistory.com/929?category=1034353)
@@ -43,7 +57,12 @@
 - [Compositional Layout](https://inuplace.tistory.com/1038?category=1034353)
 - [Multiple Gesture Recognizer](https://inuplace.tistory.com/1069?category=1034353)
 - [ViewController 라이프사이클 이해 및 활용](https://inuplace.tistory.com/1080?category=1034353)
-- [NotificationCenter 개념](https://inuplace.tistory.com/1120?category=1034357)
+- [오토레이아웃을 코드로 작성하는 방법](https://github.com/lunchScreen/Interview_Questions/issues/2)
+- [Left, Right Constraint vs Leading, Trailing Constraint](https://github.com/lunchScreen/Interview_Questions/issues/11)
+- [Safe Area](https://github.com/lunchScreen/Interview_Questions/issues/39)
+- [스토리보드의 장단점](https://github.com/lunchScreen/Interview_Questions/issues/12)
+- [Responder Chain](https://github.com/lunchScreen/Interview_Questions/issues/21)
+- [First Responder](https://github.com/lunchScreen/Interview_Questions/issues/21)
 <!-- - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
@@ -102,6 +121,8 @@
 - [MVC](https://inuplace.tistory.com/1049?category=1024843)
 - [MVP](https://inuplace.tistory.com/1049?category=1024843)
 - [MVVM](https://inuplace.tistory.com/1049?category=1024843)
+- [Delegate](https://github.com/lunchScreen/Interview_Questions/issues/13)
+- [Singletone](https://github.com/lunchScreen/Interview_Questions/issues/55)
 <!-- - Clean Swift
 - RIBs -->
 <!-- 
@@ -117,6 +138,8 @@
 
 ### OOP
 
+- [추상화, 캡슐화, 상속, 다형성](https://github.com/lunchScreen/Interview_Questions/issues/93)
+- [DI (의존성주입)](https://github.com/lunchScreen/Interview_Questions/issues/5)
 - [SOLID](https://inuplace.tistory.com/938)
 - [SRP (Single Responsibility Principle)](https://inuplace.tistory.com/938)
 - [OCP (Open-Closed Principle)](https://inuplace.tistory.com/941)
@@ -150,6 +173,7 @@
 
 ### Operation System
 
+- [뮤텍스 vs 세마포어](https://github.com/lunchScreen/Interview_Questions/issues/75) 
 - [채널, 버퍼, 인터럽트](https://inuplace.tistory.com/279?category=884574)
 - [시분할 시스템](https://inuplace.tistory.com/280?category=884574)
 - [커널](https://inuplace.tistory.com/281?category=884574)
@@ -181,6 +205,7 @@
 
 ### Data Base
 
+- [NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
 - [트랙잭션](https://inuplace.tistory.com/1000?category=911622)
 - [ACID](https://inuplace.tistory.com/1000?category=911622)
 - [Index](https://inuplace.tistory.com/1058?category=911622)
