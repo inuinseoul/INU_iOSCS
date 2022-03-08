@@ -170,14 +170,14 @@
 - [페이징 테이블](https://inuplace.tistory.com/352?category=884574)
 - [세그멘테이션](https://inuplace.tistory.com/353?category=884574)
 - [가상메모리](https://inuplace.tistory.com/362?category=884574)
-<!-- - 멀티프로세스
-- 파일시스템  -->
 - [페이지 대치 알고리즘](https://inuplace.tistory.com/363?category=884574)
 - [프레임개수와 페이지크기](https://inuplace.tistory.com/371?category=884574)
 - [쓰레싱](https://inuplace.tistory.com/374?category=884574)
 - [디스크 스케줄링](https://inuplace.tistory.com/390?category=884574)
 - [RAID](https://inuplace.tistory.com/394?category=884574)
 - [IPC](https://inuplace.tistory.com/1039?category=884574)
+<!-- - 멀티프로세스
+- 파일시스템  -->
 
 ### Data Base
 
