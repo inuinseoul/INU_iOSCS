@@ -49,6 +49,7 @@
 - [App Life Cycle (Not running, Inactive, Active, Background, Suspended)](https://github.com/lunchScreen/Interview_Questions/issues/46)
 - [ApplicationDelegate](https://github.com/lunchScreen/Interview_Questions/issues/81)
 - [#selector의 역할](https://inuplace.tistory.com/1072)
+- [translatesAutoresizingMaskIntoConstraints](https://inuplace.tistory.com/1047?category=1029564)
 
 ### UIKit
 
@@ -63,6 +64,7 @@
 - [스토리보드의 장단점](https://github.com/lunchScreen/Interview_Questions/issues/12)
 - [Responder Chain](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [First Responder](https://github.com/lunchScreen/Interview_Questions/issues/21)
+- [UI를 메인스레드에서 다루는 이유](https://inuplace.tistory.com/1016?category=1029564)
 <!-- - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
