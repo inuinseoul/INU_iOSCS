@@ -208,7 +208,7 @@
 ### Data Base
 
 - [NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
-- [트랙잭션](https://inuplace.tistory.com/1000?category=911622)
+- [트잭션](https://inuplace.tistory.com/1000?category=911622)
 - [ACID](https://inuplace.tistory.com/1000?category=911622)
 - [Index](https://inuplace.tistory.com/1058?category=911622)
 
