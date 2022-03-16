@@ -65,6 +65,8 @@
 - [Responder Chain](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [First Responder](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [UI를 메인스레드에서 다루는 이유](https://inuplace.tistory.com/1016?category=1029564)
+- [View Drawing Cycle](https://inuplace.tistory.com/1137)
+- [setNeedsDisplay, setNeedsLayout](https://inuplace.tistory.com/1137)
 <!-- - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
@@ -82,7 +84,7 @@
 - CoreML 모델을 통한 텍스트 및 사진 데이터 인식
 - instruments를 이용해 원하는 성능 데이터를 프로파일링
 - App 라이프사이클 이해 및 백그라운드 동작에 대한 제약, 내부 데이터 아카이브
-- View 렌더링사이클 이해 및 원하는 속성으로 애니메이션 구현 -->
+- 원하는 속성으로 애니메이션 구현 -->
 
 ### RxSwift
 
