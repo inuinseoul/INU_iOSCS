@@ -127,16 +127,21 @@
 - [NSSortDescriptor](https://inuplace.tistory.com/1010?category=1034355)
 - [Entity Relationship](https://inuplace.tistory.com/1011?category=1034355)
 
-### Architecture & Design Pattern
+### Architecture
 
 - [Clean Architecture](https://inuplace.tistory.com/1049?category=1024843)
 - [MVC](https://inuplace.tistory.com/1049?category=1024843)
 - [MVP](https://inuplace.tistory.com/1049?category=1024843)
 - [MVVM](https://inuplace.tistory.com/1049?category=1024843)
-- [Delegate](https://github.com/lunchScreen/Interview_Questions/issues/13)
-- [Singletone](https://github.com/lunchScreen/Interview_Questions/issues/55)
+- [VIPER](https://inuplace.tistory.com/1055)
 <!-- - Clean Swift
 - RIBs -->
+
+### Design Pattern
+- [Delegate](https://github.com/lunchScreen/Interview_Questions/issues/13)
+- [Singletone](https://github.com/lunchScreen/Interview_Questions/issues/55)
+- [Facotry](https://inuplace.tistory.com/1170?category=1024843)
+
 <!-- 
 ### ETC
 
