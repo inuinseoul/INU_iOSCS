@@ -69,6 +69,8 @@
 - [UI를 메인스레드에서 다루는 이유](https://inuplace.tistory.com/1016?category=1029564)
 - [View Drawing Cycle](https://inuplace.tistory.com/1137)
 - [setNeedsDisplay, setNeedsLayout](https://inuplace.tistory.com/1137)
+- [UITableView 기초부터 다시 살펴보기](https://inuplace.tistory.com/1174)
+- [dequeueReusableCell (withIdentifier:for:) vs (withIdentifier:)](https://inuplace.tistory.com/1175?category=1029564)
 <!-- - 스토리보드를 이용한 뷰 계층 구조 구현
 - 스토리보드를 사용하지 않고 코드만으로 뷰 계층 구조 구현
 - 오토레이아웃을 적용한 반응형 뷰 계층 구조 구현 (in 스토리보드, Xib, 코드)
@@ -78,7 +80,6 @@
 - RESTful API에 대한 이해
 - WEB API 서버와 PUT, POST로 연동
 - Container ViewController 개념 이해 (포함관계 및 ToolBar, NavigationBar 동작흐름)
-- TableView 동작 이해 및 활용 (데이터소스 지정)
 - CollectionView 동작 이해 및 활용 (데이터 소스 지정, 커스텀 레이아웃 구현)
 - Persistance 데이터 계층 종류 및 특징, 구현방법
 - StackView 동작 이해 및 활용
