@@ -52,6 +52,10 @@
 - [ApplicationDelegate](https://github.com/lunchScreen/Interview_Questions/issues/81)
 - [#selector의 역할](https://inuplace.tistory.com/1072)
 - [translatesAutoresizingMaskIntoConstraints](https://inuplace.tistory.com/1047?category=1029564)
+- [ATS (App Transport Security)](https://inuplace.tistory.com/1222)
+- [JSON Encoding / Decoding](https://inuplace.tistory.com/1223)
+- [CodingKeys / Custom CodingKeys](https://inuplace.tistory.com/1224)
+- [URL Loading System](https://inuplace.tistory.com/1226)
 
 ### UIKit
 
