@@ -34,6 +34,7 @@
 - [sort의 내부구현](https://github.com/lunchScreen/Interview_Questions/issues/83)
 - [Localizing](https://inuplace.tistory.com/1163)
 - [Method Swizzling](https://inuplace.tistory.com/1165)
+- [autoreleasepool](https://inuplace.tistory.com/1246)
 <!-- - GCD 동작원리 및 사용
 - 함수형 프로그래밍 패러다임에 따른 불변 객체 및 순수함수 구현
 - JSON 데이터 파싱 및 디코딩, 데이터 인코딩
